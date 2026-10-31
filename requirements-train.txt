@@ -1,0 +1,12 @@
+-r requirements.txt
+torch==2.14.1
+transformers==5.20.2
+accelerate==1.15.0
+datasets==5.1.0
+sentence-transformers==6.2.0
+setfit==1.2.0
+scikit-learn==1.9.1
+onnx==1.23.2
+onnxscript==0.7.2
+pytest==9.1.1
+ruff==0.17.2

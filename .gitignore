@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+data/raw/
+data/banking77/
+artifacts/
+results/
+runs/
+feedback.jsonl
+.pytest_cache/
+-ruff_cache/
