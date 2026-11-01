@@ -1,0 +1,19 @@
+text,category
+Where is my new card?,card_arrival
+My card still hasn't arrived,card_arrival
+When will my card get here?,card_arrival
+I ordered a card two weeks ago and nothing came,card_arrival
+How long until my card is delivered?,card_arrival
+Is my card lost in the post?,card_arrival
+What exchange rate do you use?,exchange_rate
+How much is a euro in pounds today?,exchange_rate
+Is your exchange rate good?,exchange_rate
+Where can I see the current rates?,exchange_rate
+Do rates change at the weekend?,exchange_rate
+What rate will I get for dollars?,exchange_rate
+My top up failed,top_up_failed
+Why did my top-up not go through?,top_up_failed
+I tried to add money and it was declined,top_up_failed
+The top up keeps failing,top_up_failed
+Adding money to my account did not work,top_up_failed
+Top up error again today,Top_up_failed
