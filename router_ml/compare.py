@@ -6,7 +6,7 @@ def main() -> None:
     rows = [json.loads(p.read_text()) for p in sorted(RESULTS.glob("*.json"))]
     rows.sort(key=lambda r: -r["accuracy"])
     print(
-        f"{'model':<16} {'test acc':>8} {'macro F1':>8} {'cover@0.9':>9} "
+        f"{'model':<16} {'test_acc':>8} {'macro F1':>8} {'cover@0.9':>9} "
         f"{'acc@0.9':>7} {'train_s':>8} device"
     )
     for r in rows:
